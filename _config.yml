@@ -1,1 +1,8 @@
+title: Code-Jammers Wiki
+# (string) Description of your wiki
+description: Open source team coding events
+# (boolean) disable edit functionalities (edit/delete/add pages)
+disable_edit: true
+# (boolean) Enable/disable wiki page list in sidebar
+show_wiki_pages: true
 remote_theme: Drassil/git-wiki-theme@master
